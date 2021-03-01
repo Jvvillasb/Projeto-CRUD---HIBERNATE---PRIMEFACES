@@ -1,7 +1,5 @@
 # Projeto-CRUD---HIBERNATE---PRIMEFACES
-<h3 align="center">
-<img src="https://media.giphy.com/media/hrNCP9HMlVU5zDhGHr/giphy.gif" alt="imagem GIF" style="text-align: center" width="800px">
-</h3>
+
 
 > Projeto de Crud baseado no projeto passado, porém utilizando Hibernate como framework de persistência de Dados e Primefaces como framework front-end.
 
