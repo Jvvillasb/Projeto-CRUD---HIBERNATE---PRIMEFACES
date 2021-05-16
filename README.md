@@ -4,6 +4,8 @@
 
 > Projeto de Crud baseado no projeto passado, porém utilizando Hibernate como framework de persistência de Dados e Primefaces como framework front-end.
 
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/02e27019bdc8227994c13ff23419e833.gif" width="400" height="295" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
