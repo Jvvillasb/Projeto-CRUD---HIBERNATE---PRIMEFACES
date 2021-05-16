@@ -3,7 +3,7 @@
 
 > Projeto de Crud baseado no projeto passado, porém utilizando Hibernate como framework de persistência de Dados e Primefaces como framework front-end.
 
-<center><img src="https://i.picasion.com/pic91/02e27019bdc8227994c13ff23419e833.gif" width="450" height="295" border="0" alt=""/></a><br/><a href=""></center>
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/b89c1b86ada71e664274dec28c0fa4ea.gif" width="400" height="295" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
 
 ### Ajustes e melhorias
 
